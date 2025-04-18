@@ -1,0 +1,1 @@
+print is the command which is used to display ("hello world")
